@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "LifeCycleLearn"
 include ':app'
+
+// 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 github 推送码
